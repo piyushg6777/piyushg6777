@@ -42,7 +42,7 @@
   "databases": ["MySQL", "PostgreSQL", "SQL Server", "Redshift", "Teradata", "Oracle", "Snowflake"],
   "cloud computing"
   "STATISTICS": ["Hypothesis tests", "A/B experiments", "Bayesian Statistics", "Regression", "Sampling Techniques"],
-  "tools": [Jupyter Notebook, PyCharm, Spyder, RStudio, Microsoft Visual Studio, Git Version Control]
+  "tools": ["Jupyter Notebook", "Spyder", "PyCharm", "RStudio", "Microsoft Visual Studio", "Git Version Control"]
 }
 ```
 
