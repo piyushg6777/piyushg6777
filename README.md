@@ -3,30 +3,22 @@
 <img src="https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif" align="center"/>
 </div>
 <h1 align="center">I'm Piyush Nath Gupta</h1>
-<p align="center">⦿ Thrive on digging into complex data sets to produce insightful data-driven strategic recommendations
-⦿ Striving to be a great data storyteller that impacts business decisions
-⦿ Strong experience in creating BI dashboards for senior leadership and other stakeholders
-⦿ Skilled in Data Mining, Data Visualization, Machine Learning Algorithms, and Predictive Modeling
-⦿ Expertise in processing, cleaning and profiling large structured/unstructured data for modeling
-⦿ Experience in creating ETL dataflows and practical understanding of Data Warehousing</p>
+<p align="center">I am data interpreter and information manager with a hands-on experience of turning large data sets into progressive ideas through the creation of summarized analysis, clear, compelling infographics, maps, data visualizations, interactive media and product designs.
+
+Being an enthusiastic Data Analyst and Business Intelligence individual, possessing a humungous potential to learn advanced technologies and adapt to a new environment, and with over three years of experience working on multiple large-scale BI projects as well as handling daily operational requests with exceptional teamwork, leadership, and communication skills, I am now aspiring to leverage data analytics to build a great consumer product and make a positive impact on people's lives.</p><br>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyushg6777" alt="piyushg6777" /> </p>
 
 
-### Things you should know
+### My Interests: 👨‍💻
 
-<b> <u> <i> TECHNICAL SKILLS 👨‍💻 </u> <br>  </i>
-► LANGUAGES: </b> Python, SQL, R, Java (J2EE), C, C++, HTML5, CSS, XML, .Net, Bash, Powershell <br> 
-► <b>LIBRARIES & PACKAGES:</b> NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, Dplyr, Tidyr, ggplot2 <br> 
-► <b>DATABASES:</b> MySQL, PostgreSQL, SQL Server, Redshift, Teradata, Oracle, Snowflake <br> 
-► <b>BI TOOLS:</b> Tableau, Advanced Excel, Alteryx, PowerBI, Apache Airflow, Tibco Spotfire <br> 
-► <b>ANALYTICAL TECHNIQUES:</b> Regression, Clustering, PCA, Classification, Forecasting <br> 
-► <b>CLOUD COMPUTING:</b> Hadoop, HIVE, Microsoft Azure, Cloudera, Databricks <br> 
-► <b>TOOLS & IDE:</b> Jupyter Notebook, PyCharm, Spyder, RStudio, Microsoft Visual Studio, Git Version Control <br> 
-► <b>STATISTICS:</b> Hypothesis tests, A/B experiments, Bayesian Statistics, Regression, Sampling Techniques <br> 
-► <b>MACHINE LEARNING:</b> Classification, Clustering, Ensemble Methods, Dimensionality Reduction <br> 
-► 📫 <b>Reach me out:</b> Shoot a mail at <a href="mailto:piyushg6777@gmail.com" target="_blank">piyushg6777@gmail.com</a> <br> 
+⦿ Thrive on digging into complex data sets to produce insightful data-driven strategic recommendations<br>
+⦿ Striving to be a great data storyteller that impacts business decisions<br>
+⦿ Strong experience in creating BI dashboards for senior leadership and other stakeholders<br>
+⦿ Skilled in Data Mining, Data Visualization, Machine Learning Algorithms, and Predictive Modeling<br>
+⦿ Expertise in processing, cleaning and profiling large structured/unstructured data for modeling<br>
+⦿ Experience in creating ETL dataflows and practical understanding of Data Warehousing</p><br>
 
 ### My Stacks
 
