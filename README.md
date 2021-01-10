@@ -32,7 +32,7 @@
 
 ```json
 {
-  "languages": ["Python", "Javascript","SQL", "R", "Java(J2EE)","C", "C++", "HTML5","CSS", "XML", ".Net","Bash", "Powershell"
+  "languages": ["Python", "Javascript","SQL", "R", "Java(J2EE)","C", "C++", "HTML5","CSS", "XML", ".Net","Bash", "Powershell"]
   "data analysis": {
     "libraries and packages": ["NumPy", "Pandas", "Matplotlib", "Seaborn", "Scikit-learn", "Dplyr", "Tidyr", "ggplot2"],
     "BI Tools": ["Tableau", "Advanced Excel"," Alteryx", "PowerBI"," Apache Airflow", "Tibco Spotfire"],
