@@ -17,7 +17,7 @@
 ### Things you should know
 
 <b> <u> <i> TECHNICAL SKILLS 👨‍💻 </u> <br>  </i>
-► LANGUAGES: </b> Python, SQL, R, Java (J2EE), C, C++, HTML5, CSS, XML, .Net, , Bash, Powershell <br> 
+► LANGUAGES: </b> Python, SQL, R, Java (J2EE), C, C++, HTML5, CSS, XML, .Net, Bash, Powershell <br> 
 ► <b>LIBRARIES & PACKAGES:</b> NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, Dplyr, Tidyr, ggplot2 <br> 
 ► <b>DATABASES:</b> MySQL, PostgreSQL, SQL Server, Redshift, Teradata, Oracle, Snowflake <br> 
 ► <b>BI TOOLS:</b> Tableau, Advanced Excel, Alteryx, PowerBI, Apache Airflow, Tibco Spotfire <br> 
@@ -32,15 +32,17 @@
 
 ```json
 {
-  "languages": ["Python", "Javascript"],
-  "frameworks/libraries": {
-    "backend": ["Django", "Django Rest Framework"],
-    "frontend": ["React.js", "Boostrap", "Material UI", "Jquery"],
-    "others": ["HTML5", "CSS3"]
+  "languages": ["Python", "Javascript","SQL", "R", "Java(J2EE)","C", "C++", "HTML5","CSS", "XML", ".Net","Bash", "Powershell"
+  "data analysis": {
+    "libraries and packages": [NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, Dplyr, Tidyr, ggplot2 ],
+    "BI Tools": ["Tableau", "Advanced Excel"," Alteryx", "PowerBI"," Apache Airflow", "Tibco Spotfire"],
+    "analytical techniques": ["Regression", "Clustering", "PCA", "Classification", "Forecasting"],
+  
   },
-  "database": ["Mysql", "PostgreSQL"],
-  "misc": ["Docker", "Redis", "Celery", "RabbitMQ", "Unit Testing", "CI/CD"],
-  "tools": ["Visual Studio Code", "Pycharm"]
+  "databases": ["MySQL", "PostgreSQL", "SQL Server", "Redshift", "Teradata", "Oracle", "Snowflake"],
+  "cloud computing"
+  "STATISTICS": ["Hypothesis tests, A/B experiments, Bayesian Statistics, Regression, Sampling Techniques"],
+  "tools": [Jupyter Notebook, PyCharm, Spyder, RStudio, Microsoft Visual Studio, Git Version Control]
 }
 ```
 
