@@ -3,8 +3,12 @@
 <img src="https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif" align="center"/>
 </div>
 <h1 align="center">I'm Piyush Nath Gupta</h1>
-<p align="center">Enthusiastic <a href="https://pragativerma18.github.io/Resume/">full stack web developer 👨‍💻 </a>, eager to contribute to team success through hard work, attention to detail, and
-excellent organizational skills, a clear understanding of frontend, backend, and project management.</p>
+<p align="center">⦿ Thrive on digging into complex data sets to produce insightful data-driven strategic recommendations
+⦿ Striving to be a great data storyteller that impacts business decisions
+⦿ Strong experience in creating BI dashboards for senior leadership and other stakeholders
+⦿ Skilled in Data Mining, Data Visualization, Machine Learning Algorithms, and Predictive Modeling
+⦿ Expertise in processing, cleaning and profiling large structured/unstructured data for modeling
+⦿ Experience in creating ETL dataflows and practical understanding of Data Warehousing</p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyushg6777" alt="piyushg6777" /> </p>
