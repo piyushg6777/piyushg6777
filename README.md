@@ -8,3 +8,29 @@ excellent organizational skills, a clear understanding of frontend, backend, and
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyushg6777" alt="piyushg6777" /> </p>
+
+
+### Things you should know
+
+- 🔭 <b>Currently working on:</b> React.js, Django, Django REST
+- 🌱 <b>Getting better at:</b> Python, Javascript, Datastructure & Algorithms
+- 🤔 <b>Exploring:</b> React Native
+- ⚗️ <b>Experimenting on:</b> Automated Resume Parsing
+- 💬 <b>Ask me about:</b> Python, Javascript
+- 📫 <b>Reach me out:</b> Shoot a mail at <a href="mailto:expelmahmud@gmail.com" target="_blank">expelmahmud@gmail.com</a>
+
+### My Stacks
+
+```json
+{
+  "languages": ["Python", "Javascript"],
+  "frameworks/libraries": {
+    "backend": ["Django", "Django Rest Framework"],
+    "frontend": ["React.js", "Boostrap", "Material UI", "Jquery"],
+    "others": ["HTML5", "CSS3"]
+  },
+  "database": ["Mysql", "PostgreSQL"],
+  "misc": ["Docker", "Redis", "Celery", "RabbitMQ", "Unit Testing", "CI/CD"],
+  "tools": ["Visual Studio Code", "Pycharm"]
+}
+```
