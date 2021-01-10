@@ -20,7 +20,7 @@ Being an enthusiastic Data Analyst and Business Intelligence individual, possess
 ⦿ Expertise in processing, cleaning and profiling large structured/unstructured data for modeling<br>
 ⦿ Experience in creating ETL dataflows and practical understanding of Data Warehousing</p><br>
 
-### My Stacks
+### My Skills:🤹
 
 ```json
 {
