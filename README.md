@@ -33,6 +33,6 @@ Here are some ideas to get you started:
 <!-- - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
 - 📫 How to reach me: 
-    - Twitter: https://twitter.com/nayyyhaa
-    - Mail: nehaguptang.ng@gmail.com
-- 😄 Pronouns: She/Her
+    - LinkedIn: https://linkedin/in/piyushg6777
+    - Mail: piyushg6777@gmail.com
+- 😄 Pronouns: She/Him
