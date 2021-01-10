@@ -136,8 +136,8 @@
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/Chauhanshi/Chauhanshi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chauhanshi&hide=powershell,java,html,Css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/piyushg6777/piyushg6777">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushg6777&hide=powershell,java,html,Css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/Chauhanshi/Chauhanshi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Chauhanshi&show_icons=true&theme=dark&count_private=True" />
+<a href="https://github.com/piyushg6777/piyushg6777">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=piyushg6777&show_icons=true&theme=dark&count_private=True" />
