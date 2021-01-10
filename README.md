@@ -52,3 +52,40 @@ excellent organizational skills, a clear understanding of frontend, backend, and
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 
 
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/devmahmud">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmahmud&hide=dockerfile,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/devmahmud">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=devmahmud&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Mahmudul's GitHub Stats" />
+</a>
+
+<a href="https://github.com/devmahmud/Django-Poll-App">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devmahmud&repo=Django-Poll-App&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/devmahmud/DevConnector-Django">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devmahmud&repo=DevConnector-Django&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<!-- links to social media icons -->
+
+<!-- icons with padding -->
+
+[1.1]: http://i.imgur.com/tXSoThF.png "twitter icon with padding"
+[2.1]: http://i.imgur.com/0o48UoR.png "github icon with padding"
+
+<!-- icons without padding -->
+
+[1.2]: https://i.imgur.com/wWzX9uB.png "twitter icon without padding"
+[2.2]: https://i.imgur.com/9I6NRUm.png "github icon without padding"
+[3.2]: https://i.imgur.com/dgXzJ9j.png "LinkedIn icon without padding"
+
+<!-- links to your social media accounts -->
+
+[1]: https://facebook.com/piyushg6777
+[2]: https://github.com/piyushg6777
+[3]: https://www.linkedin.com/in/piyushg6777/
+
+
