@@ -16,12 +16,17 @@
 
 ### Things you should know
 
-- 🔭 <b>Currently working on:</b> React.js, Django, Django REST
-- 🌱 <b>Getting better at:</b> Python, Javascript, Datastructure & Algorithms
-- 🤔 <b>Exploring:</b> React Native
-- ⚗️ <b>Experimenting on:</b> Automated Resume Parsing
-- 💬 <b>Ask me about:</b> Python, Javascript
-- 📫 <b>Reach me out:</b> Shoot a mail at <a href="mailto:expelmahmud@gmail.com" target="_blank">piyushg6777@gmail.com</a>
+<b> <u> TECHNICAL SKILLS 👨‍💻 </u>
+► LANGUAGES: </b> Python, SQL, R, Java (J2EE), C, C++, HTML5, CSS, XML, .Net, , Bash, Powershell
+► <b>LIBRARIES & PACKAGES: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, Dplyr, Tidyr, ggplot2
+► <b>DATABASES: MySQL, PostgreSQL, SQL Server, Redshift, Teradata, Oracle, Snowflake
+► <b>BI TOOLS: Tableau, Advanced Excel, Alteryx, PowerBI, Apache Airflow, Tibco Spotfire
+► <b>ANALYTICAL TECHNIQUES: Regression, Clustering, PCA, Classification, Forecasting
+► <b>CLOUD COMPUTING: Hadoop, HIVE, Microsoft Azure, Cloudera, Databricks
+► <b>TOOLS & IDE: Jupyter Notebook, PyCharm, Spyder, RStudio, Microsoft Visual Studio, Git Version Control
+► <b>STATISTICS: Hypothesis tests, A/B experiments, Bayesian Statistics, Regression, Sampling Techniques
+► <b>MACHINE LEARNING: Classification, Clustering, Ensemble Methods, Dimensionality Reduction
+► 📫 <b>Reach me out:</b> Shoot a mail at <a href="mailto:piyushg6777@gmail.com" target="_blank">piyushg6777@gmail.com</a>
 
 ### My Stacks
 
