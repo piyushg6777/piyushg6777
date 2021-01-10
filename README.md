@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hey, I'm Neha <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+### Hey, I'm Piyush <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 *Glad to see you here!* :star_struck:
 <!--
 *nayyyhaa/nayyyhaa* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
