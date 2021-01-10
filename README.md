@@ -1,4 +1,4 @@
-<!-- <h1 align="center">Hi 👋, I'm Pragati Verma</h1> -->
+<!-- <h1 align="center">Hi 👋, I'm Piyush Nath Gupta</h1> -->
 <div align="center">
 <img src="https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif" align="center"/>
 </div>
@@ -34,14 +34,14 @@
 {
   "languages": ["Python", "Javascript","SQL", "R", "Java(J2EE)","C", "C++", "HTML5","CSS", "XML", ".Net","Bash", "Powershell"
   "data analysis": {
-    "libraries and packages": [NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, Dplyr, Tidyr, ggplot2 ],
+    "libraries and packages": ["NumPy", "Pandas", "Matplotlib", "Seaborn", "Scikit-learn", "Dplyr", "Tidyr", "ggplot2"],
     "BI Tools": ["Tableau", "Advanced Excel"," Alteryx", "PowerBI"," Apache Airflow", "Tibco Spotfire"],
     "analytical techniques": ["Regression", "Clustering", "PCA", "Classification", "Forecasting"],
   
   },
   "databases": ["MySQL", "PostgreSQL", "SQL Server", "Redshift", "Teradata", "Oracle", "Snowflake"],
   "cloud computing"
-  "STATISTICS": ["Hypothesis tests, A/B experiments, Bayesian Statistics, Regression, Sampling Techniques"],
+  "STATISTICS": ["Hypothesis tests", "A/B experiments", "Bayesian Statistics", "Regression", "Sampling Techniques"],
   "tools": [Jupyter Notebook, PyCharm, Spyder, RStudio, Microsoft Visual Studio, Git Version Control]
 }
 ```
