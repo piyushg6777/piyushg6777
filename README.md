@@ -7,4 +7,4 @@
 excellent organizational skills, a clear understanding of frontend, backend, and project management.</p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pragativerma18" alt="pragativerma18" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=piyushg6777@gmail.com" alt="Dolphin@123!" /> </p>
