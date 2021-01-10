@@ -65,20 +65,12 @@
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/devmahmud">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmahmud&hide=dockerfile,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/piyushg6777/piyushg6777">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushg6777&hide=powershell,java,html,Css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/devmahmud">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=devmahmud&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Mahmudul's GitHub Stats" />
-</a>
+<a href="https://github.com/piyushg6777/piyushg6777">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=piyushg6777&show_icons=true&theme=dark&count_private=True" />
 
-<a href="https://github.com/devmahmud/Django-Poll-App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devmahmud&repo=Django-Poll-App&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/devmahmud/DevConnector-Django">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devmahmud&repo=DevConnector-Django&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
 
 <!-- links to social media icons -->
 
@@ -130,14 +122,3 @@
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
 </div>  
-
-
-
-
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/piyushg6777/piyushg6777">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushg6777&hide=powershell,java,html,Css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/piyushg6777/piyushg6777">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=piyushg6777&show_icons=true&theme=dark&count_private=True" />
